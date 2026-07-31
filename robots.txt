@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://medknowledge.diagnos-tick.in/colleges/sitemap.xml
